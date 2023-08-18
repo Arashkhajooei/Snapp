@@ -28,7 +28,7 @@ The primary objective of this project is to prepare, clean, and analyze the give
 2. Navigate to the appropriate directories for the specific tasks you're interested in.
 3. Run the provided code files using your preferred programming environment.
 
-## Next Objectives
+## Objectives
 - **ARIMA**: Implement the Autoregressive Integrated Moving Average (ARIMA) model to forecast future trends in the data.
 - **Seasonal ARIMA (SARIMA)**: Build a Seasonal ARIMA model to capture seasonal variations in the data.
 - **Exponential Smoothing (ETS)**: Apply Exponential Smoothing techniques to make future predictions based on historical data.
