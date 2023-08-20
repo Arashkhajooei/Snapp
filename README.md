@@ -40,9 +40,6 @@ The primary objective of this project is to prepare, clean, and analyze the give
 ## Contribution Guidelines
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 We would like to express our gratitude to the open-source community for providing valuable resources and tools that have been instrumental in creating this project.
 
